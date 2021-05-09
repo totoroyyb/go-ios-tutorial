@@ -2,12 +2,12 @@
 layout: page
 title: Basic Layout
 description: >
-  In this post, you will learn some basic layout techniques with different Stack. You will also get some ideas about how to use Text and Shapes.
+  In this post, you will learn some basic layout techniques with different Stack. You will also get some ideas about how to use Text.
 hide_description: false
 sitemap: false
 ---
 
-0. this unordered seed list will be replaced by toc as unordered list
+1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
 ## How a SwiftUI view is constructed?

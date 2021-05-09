@@ -17,7 +17,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 ## Getting started
 * [Preparations]{:.heading.flip-title} --- How to prepare the environment needed for iOS development.
 
-* [Basic Layout]{:.heading.flip-title} --- How to organize your view with `Stack` and use `Text` and `Shape`s.
+* [Basic Layout]{:.heading.flip-title} --- How to organize your view with `Stack` and use `Text`s.
 
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
