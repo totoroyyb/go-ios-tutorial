@@ -7,6 +7,9 @@ hide_description: false
 sitemap: false
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ## Prerequisites
 
 - You may need a Mac, if not, you at least need a virtual machine which can run MacOS, as we will be doing native iOS development.
@@ -22,19 +25,19 @@ After you finished downloading or upgrading for the **Prerequisites** part, you 
 
 Start the Xcode and you will see a welcome view. Like this:
 
-![Xcode](../assets/img/intro/1.png)
+![Xcode](../assets/img/intro/1/1.png)
 
 On the right hand side, it lists all recent projects I have opened. On the left hand side, this is a view where you can create a new project, clone and open from existing projects. We will not touch the rest two options. Let's click on the **`Create a new Xcode project`**!
 
 You will see a popup window like this:
 
-![create](../assets/img/intro/2.png)
+![create](../assets/img/intro/1/2.png)
 
 Under the title `Choose a template for your new project`, you can see you have several options for creating a new project targeting at different platform. Since we are majorly focusing on iOS, so we select the `iOS` as our target platform. Below, there is a view listing all avaliable boilerplates for what kind of app you want to create. We choose the `App` one, which will create a vanilla codebase for us. Note: this will still create several boilderplate code files to make sure your "empty" project can start and running.
 
 After clicking `Next`, a new popup window will appear. Like this:
 
-![setup](../assets/img/intro/3.png)
+![setup](../assets/img/intro/1/3.png)
 
 - `Product Name`: Just the name for your app project. You can choose whatever you want.
 
@@ -58,7 +61,7 @@ When you correctly fill up all field, click `Next` to preceed. After that, you w
 
 Congrat! You've created a new iOS project. You shall see a new Xcode window is opened for you, like this:
 
-![xcode](../assets/img/intro/4.png)
+![xcode](../assets/img/intro/1/4.png)
 
 - On the left hand side is named as **Navigator**, where you can view the file structure of your project. *(This is not always how files really organized in your folder, since Xcode organizes files in its own way.)* Besides viewing and navigating different files in the **Navigator**, you can also switch to different tabs to view different functionalities. More details will be discussed in the future posts.
 
@@ -70,7 +73,7 @@ Congrat! You've created a new iOS project. You shall see a new Xcode window is o
 
 Let's focus on the file trees in the **Navigator**, you will see something like this:
 
-![files](../assets/img/intro/5.png)
+![files](../assets/img/intro/1/5.png)
 
 These are all template files created by Xcode to make you app runable. `Product` folder is the folder which contains the build executable file of your app. Let's focus more on `GoiOS` folder which is main folder containing all esssential files. We will touch `Preview Content` yet.
 
@@ -94,7 +97,7 @@ First, navigating to the `ContentView.swift` file by double clicking it inside t
 
 You probably will see something like this:
 
-![preview](../assets/img/intro/6.png)
+![preview](../assets/img/intro/1/6.png)
 
 You can see the little phone view inside the preview panel with the simple view.
 
@@ -104,7 +107,7 @@ This is not quite accurate. When you preview, it actually also run inside a simu
 
 Let's find the UI looks like below:
 
-![run](../assets/img/intro/7.png)
+![run](../assets/img/intro/1/7.png)
 
 You can click the `iPod touch` one to select which simulator you want to use. Then you can click the triangular run button to start a simulator and run your app inside it when it successfully booted up. The square button is used to stop your app inside the simulator.
 
@@ -113,6 +116,5 @@ You can click the `iPod touch` one to select which simulator you want to use. Th
 Alright! I believe you can already create a brand-new iOS project on your own! That's all for this post. See you next post!
 
 
-<!-- 
-Continue with [Config](config.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [Basic Layout](basic_layout.md){:.heading.flip-title}
+{:.read-more}
