@@ -19,6 +19,8 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 * [Basic Layout]{:.heading.flip-title} --- How to organize your view with `Stack` and use `Text`s.
 
+* [Shapes]{:.heading.flip-title} --- How to use basic `Shape`s and some basic `ViewModifier`.
+
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.

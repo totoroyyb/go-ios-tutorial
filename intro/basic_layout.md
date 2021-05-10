@@ -132,6 +132,5 @@ Okay! It correctly displayed on the screen, arranging two `Text` views from the 
 
 That's all for this post. Please always try to infer how SwiftUI shall layout the UI for you, as in that way, you can be more clear about why the layout doesn't work and figure out which part of codes break your app.
 
-<!-- 
-Continue with [Config](config.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [Shape](shape.md){:.heading.flip-title}
+{:.read-more}
