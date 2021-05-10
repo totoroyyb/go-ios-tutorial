@@ -42,6 +42,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 [preparations]: preparations.md
 [Basic Layout]: basic_layout.md
+[Shapes]: shape.md
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
