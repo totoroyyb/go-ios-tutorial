@@ -158,6 +158,6 @@ Now, you shall see a part of red `Rectangle` shows up.
 
 That's all for this post. Hopes you enjoy the fun of `ViewModifier`. You can utilize the Xcode's autocompletion to see all possible `ViewModifier`s of a View. Bye!
 
-<!-- 
-Continue with [Config](config.md){:.heading.flip-title}
-{:.read-more} -->
+
+Continue with [Use Button](button.md){:.heading.flip-title}
+{:.read-more}

@@ -21,6 +21,8 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 * [Shapes]{:.heading.flip-title} --- How to use basic `Shape`s and some basic `ViewModifier`.
 
+* [Use Button]{:.heading.flip-title} --- How to `Button` and `@State` to change the state.
+
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -43,6 +45,9 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 [preparations]: preparations.md
 [Basic Layout]: basic_layout.md
 [Shapes]: shape.md
+[Use Button]: button.md
+
+
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
