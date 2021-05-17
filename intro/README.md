@@ -23,6 +23,8 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 * [Use Button]{:.heading.flip-title} --- How to `Button` and `@State` to change the state.
 
+* [Basic Animation]{:.heading.flip-title} --- How to apply some basic animations in SwiftUI.
+
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -46,7 +48,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 [Basic Layout]: basic_layout.md
 [Shapes]: shape.md
 [Use Button]: button.md
-
+Basic Animation]: animation.md
 
 [install]: install.md
 [upgrade]: upgrade.md

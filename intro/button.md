@@ -148,6 +148,5 @@ Try to run it and test it out. This time we utilize a `if-else` statement. Recal
 
 That all for this post. Let's do some practice about how to use `@State` and do a recap about how the SwiftUI manage this behind the scene.
 
-<!-- 
-Continue with [Config](config.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [Basic Animation](animation.md){:.heading.flip-title}
+{:.read-more}
