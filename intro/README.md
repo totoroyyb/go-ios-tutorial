@@ -48,7 +48,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 [Basic Layout]: basic_layout.md
 [Shapes]: shape.md
 [Use Button]: button.md
-Basic Animation]: animation.md
+[Basic Animation]: animation.md
 
 [install]: install.md
 [upgrade]: upgrade.md
