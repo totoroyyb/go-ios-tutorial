@@ -144,5 +144,5 @@ However, `withAnimation` will only animate specified views. Taking what we did a
 
 This is a basic introduction of the animation in SwiftUI. More advanced topics might be discussed in the following posts. You can tweak around the parameter of both `.animation` or `withAnimation` to achieve different animation style.
 
-<!-- Continue with [Use Button](button.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [Basic List](list.md){:.heading.flip-title}
+{:.read-more}
