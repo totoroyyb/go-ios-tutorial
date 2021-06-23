@@ -148,5 +148,5 @@ There are actually lots of optimization for performance behind the scene, which 
 
 This is all about this post. In the next post, we step one further step into the world of list, to see what kind of customizations we can do.
 
-<!-- Continue with [Use Button](button.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [More About List](more_list.md){:.heading.flip-title}
+{:.read-more}

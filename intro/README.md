@@ -27,6 +27,8 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 * [Basic List]{:.heading.flip-title} --- How to display a list of data in SwiftUI.
 
+* [More About List]{:.heading.flip-title} --- How to display a more complicated list of data in SwiftUI.
+
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -52,6 +54,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 [Use Button]: button.md
 [Basic Animation]: animation.md
 [Basic List]: list.md
+[More About List]: more_list.md
 
 [install]: install.md
 [upgrade]: upgrade.md
