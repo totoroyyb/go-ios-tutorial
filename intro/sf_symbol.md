@@ -2,7 +2,7 @@
 layout: page
 title: SF Symbol
 description: >
-  In this post, you will learn the basic usage of SF Symbol, which will facilitate your to add icon into your app.
+  In this post, you will learn the basic usage of SF Symbol, which will facilitate you to add icon into your app.
 hide_description: false
 sitemap: false
 ---
