@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shape
+title: Shapes
 description: >
   In this post, you will learn some basic usage of different `Shape`s. Beyond that, you will also start to learn more about `ViewModifier`.
 hide_description: false

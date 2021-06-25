@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Display a List of Data
+title: Basic List
 description: >
   In this post, you will learn how to use `List` in SwiftUI to display a list of data.
 hide_description: false

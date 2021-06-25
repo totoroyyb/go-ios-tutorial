@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use SF Symbol to easily integrate beautiful icons into your app.
+title: SF Symbol
 description: >
   In this post, you will learn the basic usage of SF Symbol, which will facilitate your to add icon into your app.
 hide_description: false

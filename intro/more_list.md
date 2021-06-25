@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to display more complicated data inside the `List`.
+title: More About List
 description: >
   In this post, you will learn a slight more advanced way of displaying and customizing the `List`.
 hide_description: false
