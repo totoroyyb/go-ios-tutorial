@@ -191,5 +191,5 @@ Now go back to check preview. It should look better now!
 
 This is just a simple touch about the power of SwiftUI with `List`. You can do lots of power things and of course beautiful things with just several tweaks. The next post should be relative brief. I will go over the SF Symbol, a power font/icon system created by Apple. With SF Symbol, which already comes with Apple devices natively, you can easily add icon into your app. Stay tuned!
 
-<!-- Continue with [Use Button](button.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [SF Symbol](sf_symbol.md){:.heading.flip-title}
+{:.read-more}
