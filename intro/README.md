@@ -31,6 +31,8 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 
 * [SF Symbol]{:.heading.flip-title} --- How to use SF Symbol to easily display icons.
 
+* [Two-way Binding]{:.heading.flip-title} --- How to use `$` to achieve two-way binding in SwiftUI. 
+
 
 <!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -58,6 +60,7 @@ This tutorial is written based on `Xcode 12.5`, `SwiftUI 2`, and `Swift 5.4`.
 [Basic List]: list.md
 [More About List]: more_list.md
 [SF Symbol]: sf_symbol.md
+[Two-way Binding]: two_way_binding.md
 
 [install]: install.md
 [upgrade]: upgrade.md

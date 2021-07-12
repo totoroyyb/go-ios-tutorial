@@ -172,5 +172,5 @@ For SF Symbol 3 and iOS 15, Apple added several really cool featrues. However, I
 
 That's all for this post. SF Symbol is really cool for developers who want to easily use icon system in your app. In this post, I also briefly introduce the `Image()` view. However, `Image()` view actually is quite complex behind the scene. In the future post, I might cover this view again to go more details about it. Stay tuned!
 
-<!-- Continue with [Use Button](button.md){:.heading.flip-title}
-{:.read-more} -->
+Continue with [Two-way Binding](two_way_binding.md){:.heading.flip-title}
+{:.read-more}
